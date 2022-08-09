@@ -5,8 +5,9 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org) Front-End eğitiminde oluşturd
 
 
 
-## Usage ![Ekran Alıntısı](https://user-images.githubusercontent.com/109666389/183698631-9177ce46-be63-4de7-b073-75a1c48db567.PNG)
-
+ ![Ekran Alıntısı](https://user-images.githubusercontent.com/109666389/183698631-9177ce46-be63-4de7-b073-75a1c48db567.PNG)
+ 
+## Usage 
 
 Projeyi cloneladıktan sonra visual studio code programı içerisinde açınız. 
 
